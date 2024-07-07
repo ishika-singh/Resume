@@ -1,0 +1,123 @@
+{
+  "Name": "Ishika Singh",
+  "Contact Information": {
+    "Phone": ["+91-9870660069", "+91-8130433778"],
+    "Email": ["is5186@srmist.edu.in", "ishika.singh4007@gmail.com"],
+    "LinkedIn": "https://www.linkedin.com/in/ishika-singh-166907223",
+    "Address": "House No. 117, Phase 1, Gate No.2, Gali No.1, Radhey Shyam Vihar Colony, Muradnagar, Ghaziabad, Uttar Pradesh, India - 201206"
+  },
+  "Summary": "I am a dedicated student with a strong interest in software engineering and project management. My passion for technology, problem-solving, and organizational leadership has driven me to pursue knowledge and skills in these fields. I am eager to explore opportunities that allow me to apply my learning, work on real-world projects, and contribute to innovative solutions. My goal is to gain valuable experience and grow as a professional in both software engineering and project management.",
+  "Education": [
+    {
+      "Degree": "B.Tech. - Computer Science & Engineering",
+      "Institution": "SRM Institute of Science & Technology, Ghaziabad",
+      "Dates": "2021 - 2025",
+      "CGPA": "9.06 / 10"
+    },
+    {
+      "Degree": "12th",
+      "Institution": "Dayawati Modi Public School, Ghaziabad",
+      "Dates": "2021",
+      "Percentage": "80.80 / 100"
+    },
+    {
+      "Degree": "10th",
+      "Institution": "Dayawati Modi Public School, Ghaziabad",
+      "Dates": "2019",
+      "Percentage": "92.16 / 100"
+    }
+  ],
+  "Skills": ["C", "C++", "Python", "HTML", "CSS", "Javascript", "DSA", "SQL"],
+  "Experience": [
+    {
+      "Project": "Amazon Clone",
+      "Dates": "11 Jul, 2023 - 25 Jul, 2024",
+      "Key Skills": "Front end Web development - HTML + CSS",
+      "Project Link": "https://github.com/ishika-singh/Amazon_Clone",
+      "Description": "Designed and implemented a responsive Amazon clone using HTML and CSS, demonstrating strong front-end web development skills. Created a visually appealing and user-friendly interface, closely emulating the design and layout of the Amazon website."
+    },
+    {
+      "Project": "Facial Attendance Recognition",
+      "Dates": "25 Mar, 2024 - 27 Mar, 2024",
+      "Key Skills": "Python (using pip)",
+      "Project Link": "https://github.com/ishika-singh/Facial-Recognition-Attendance-System",
+      "Description": "Python project using ML used to recognize faces."
+    },
+    {
+      "Project": "Casino Game",
+      "Dates": "28 Dec, 2023 - 09 Feb, 2024",
+      "Description": "It's a number guessing game made using C++ and DSA concepts."
+    },
+    {
+      "Project": "Gaming website - Sabatoge",
+      "Dates": "23 Sep, 2023 - 10 Oct, 2023",
+      "Key Skills": "HTML, CSS, Javascript",
+      "Project Link": "https://github.com/ishika-singh/Gaming-Website--Sabatoge",
+      "Description": "Sabatoge is a fully responsive gaming website, responsive for all devices, built using HTML, CSS, and JavaScript."
+    },
+    {
+      "Project": "Home page of GDSC club",
+      "Dates": "01 Oct, 2023 - 06 Oct, 2023",
+      "Project Link": "https://github.com/ishika-singh/GDSC-home_page",
+      "Description": "Designed and implemented a responsive home page of the GDSC website for our college's GDSC society using HTML, CSS, and JavaScript, demonstrating strong front-end web development skills. Created a visually appealing and user-friendly interface."
+    }
+  ],
+  "Certifications": [
+    {
+      "Name": "Fundamentals of Cybersecurity",
+      "Date": "05 Jun, 2026",
+      "Description": "Industrial Certificate on completion of cybersecurity fundamentals."
+    },
+    "AWS Academy Machine Learning Foundations",
+    "AWS Academy Cloud Foundations",
+    {
+      "Name": "Distributed Systems",
+      "Aggregate": "87 / 100"
+    },
+    "Mastering C++",
+    "EY Hackathon",
+    {
+      "Name": "Cloud Computing and Distributed Systems",
+      "Aggregate": "75 / 100"
+    },
+    "Python Essentials 1",
+    "Python Essentials 2"
+  ],
+  "Seminars/Trainings/Workshops": [
+    {
+      "Event": "C# Sharp Annual Conference",
+      "Date": "10 Oct, 2023",
+      "Institute": "SRM Institute of Science & Technology, Ghaziabad",
+      "Description": "Attended the C# Annual Conference, gaining insights into the latest trends from industry experts."
+    }
+  ],
+  "Co-Curricular Activities": [
+    "Core member of GDSC CLUB"
+  ],
+  "Extra-Curricular Activities": [
+    "Organised a hackathon with my teammates",
+    "Digital Poster making",
+    "Participated in Round 1: Executive Summary Submission of EY"
+  ],
+  "Personal Interests/Hobbies": [
+    "Web development",
+    "Drawing",
+    "Crafting"
+  ],
+  "Web Links": [
+    {
+      "Type": "Skype",
+      "Link": "live:.cid.c1774559381bf2a7"
+    },
+    {
+      "Type": "Github",
+      "Link": "https://github.com/ishika-singh"
+    }
+  ],
+  "Personal Details": {
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Date of Birth": "26 Jul, 2004",
+    "Known Languages": ["Hindi", "English"]
+  }
+}
